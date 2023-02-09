@@ -1,86 +1,86 @@
 @tailwind base;
 
 @layer base {
-	body {
-		@apply tw-bg-white dark:tw-bg-black;
-	}
+    body {
+        @apply tw-bg-white dark:tw-bg-black;
+    }
 
-	h1,
-	h2,
-	h3,
-	h4,
-	h5,
-	h6 {
-		@apply tw-font-bold tw-leading-tight tw-text-black dark:tw-text-white;
-	}
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        @apply tw-font-bold tw-leading-tight tw-text-black dark:tw-text-white;
+    }
 
-	h1 {
-		@apply tw-mb-6 tw-text-6xl;
-	}
+    h1 {
+        @apply tw-mb-6 tw-text-6xl;
+    }
 
-	h2,
-	h3,
-	h4,
-	h5,
-	h6 {
-		@apply tw-mb-4;
-	}
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        @apply tw-mb-4;
+    }
 
-	h2 {
-		@apply tw-text-5xl;
-	}
+    h2 {
+        @apply tw-text-5xl;
+    }
 
-	h3 {
-		@apply tw-text-4xl;
-	}
+    h3 {
+        @apply tw-text-4xl;
+    }
 
-	h4 {
-		@apply tw-text-3xl;
-	}
+    h4 {
+        @apply tw-text-3xl;
+    }
 
-	h5 {
-		@apply tw-text-2xl;
-	}
+    h5 {
+        @apply tw-text-2xl;
+    }
 
-	h6 {
-		@apply tw-text-xl;
-	}
+    h6 {
+        @apply tw-text-xl;
+    }
 
-	p {
-		@apply tw-mb-4 tw-text-base tw-font-light tw-leading-normal tw-text-black dark:tw-text-white;
-	}
+    p {
+        @apply tw-mb-4 tw-text-base tw-font-light tw-leading-normal tw-text-black dark:tw-text-white;
+    }
 
-	a {
-		@apply tw-underline;
-		@apply lg:hover:tw-no-underline;
-	}
+    a {
+        @apply tw-underline;
+        @apply lg:hover:tw-no-underline;
+    }
 
-	ul,
-	ol {
-		@apply tw-mb-4 tw-list-outside tw-pl-5;
+    ul,
+    ol {
+        @apply tw-mb-4 tw-list-outside tw-pl-5;
 
-		li {
-			@apply tw-text-black;
-		}
-	}
+        li {
+            @apply tw-text-black;
+        }
+    }
 
-	ul {
-		@apply tw-list-disc;
-	}
+    ul {
+        @apply tw-list-disc;
+    }
 
-	ol {
-		@apply tw-list-decimal;
-	}
+    ol {
+        @apply tw-list-decimal;
+    }
 
-	svg {
-		@apply tw-h-[1em] tw-w-[1em] tw-fill-current;
-	}
+    svg {
+        @apply tw-h-[1em] tw-w-[1em] tw-fill-current;
+    }
 
-	.cm-intro {
-		@apply tw-text-lg tw-text-black dark:tw-text-white;
-	}
+    .cm-intro {
+        @apply tw-text-lg tw-text-black dark:tw-text-white;
+    }
 
-	.cm-focus {
-		@apply focus:tw-outline-none focus:tw-ring-2 focus:tw-ring-white;
-	}
+    .cm-focus {
+        @apply focus:tw-outline-none focus:tw-ring-2 focus:tw-ring-white;
+    }
 }
