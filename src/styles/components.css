@@ -1,0 +1,11 @@
+@tailwind components;
+
+@layer components {
+    .cm-button-primary {
+        @apply tw-rounded tw-border tw-border-accent2 tw-bg-accent2 tw-px-8 tw-py-4 tw-text-base tw-text-white tw-no-underline focus:tw-outline-none focus:tw-ring-2 focus:tw-ring-accent2 focus:tw-ring-offset-2;
+    }
+
+    .cm-button-secondary {
+        @apply tw-rounded tw-border tw-border-accent2 tw-bg-white tw-px-8 tw-py-4 tw-text-base tw-text-black tw-no-underline focus:tw-outline-none focus:tw-ring-2 focus:tw-ring-accent2 focus:tw-ring-offset-2 dark:tw-bg-black dark:tw-text-white;
+    }
+}
