@@ -1,0 +1,25 @@
+{
+	"name": "0000001",
+	"description": "An application for a chosen website project, using the sveltekit framework.",
+	"version": "0.0.1",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"prettier:format": "prettier --plugin-search-dir . --write .",
+		"prettier:lint": "prettier --plugin-search-dir . --check . && eslint .",
+		"vite:build": "vite build",
+		"vite:dev": "vite dev --host",
+		"vite:preview": "vite preview --host"
+	},
+	"devDependencies": {
+		"@sveltejs/adapter-auto": "^2.0.0",
+		"@sveltejs/kit": "^1.5.2",
+		"eslint": "^8.33.0",
+		"eslint-config-prettier": "^8.6.0",
+		"eslint-plugin-svelte3": "^4.0.0",
+		"prettier": "^2.8.4",
+		"prettier-plugin-svelte": "^2.9.0",
+		"svelte": "^3.55.1",
+		"vite": "^4.1.1"
+	}
+}
