@@ -2,7 +2,8 @@
 
 @layer base {
     body {
-        @apply tw-bg-white dark:tw-bg-black;
+        @apply tw-bg-white;
+        @apply dark:tw-bg-black;
     }
 
     h1,
@@ -11,7 +12,8 @@
     h4,
     h5,
     h6 {
-        @apply tw-font-bold tw-leading-tight tw-text-black dark:tw-text-white;
+        @apply tw-font-bold tw-leading-tight tw-text-black;
+        @apply dark:tw-text-white;
     }
 
     h1 {
@@ -47,7 +49,8 @@
     }
 
     p {
-        @apply tw-mb-4 tw-text-base tw-font-light tw-leading-normal tw-text-black dark:tw-text-white;
+        @apply tw-mb-4 tw-text-base tw-font-light tw-leading-normal tw-text-black;
+        @apply dark:tw-text-white;
     }
 
     a {
@@ -73,14 +76,21 @@
     }
 
     svg {
-        @apply tw-h-[1em] tw-w-[1em] tw-fill-current;
+        @apply tw-h-[1em] tw-w-[1em];
     }
 
     .cm-intro {
-        @apply tw-text-lg tw-text-black dark:tw-text-white;
+        @apply tw-text-lg tw-text-black;
+        @apply dark:tw-text-white;
     }
 
     .cm-focus {
         @apply focus:tw-outline-none focus:tw-ring-2 focus:tw-ring-white;
+    }
+
+    .cm-spacing-y {
+        @apply tw-space-y-4;
+        @apply md:tw-space-y-8;
+        @apply lg:tw-space-y-12;
     }
 }

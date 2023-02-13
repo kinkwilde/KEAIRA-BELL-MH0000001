@@ -1,6 +1,9 @@
 <script>
     import '../app.css';
 
+    import ThemeHeader from '$lib/theme/header.svelte';
+    import ThemeFooter from '$lib/theme/footer.svelte';
+
     import { onMount } from 'svelte';
 
     onMount(async () => {
@@ -9,7 +12,7 @@
             m = localStorage.getItem('site-theme');
 
         if (m == 'dark') {
-            d.classList.add('theme-dark');
+            d.classList.add('tw-dark');
         }
 
         t.addEventListener('click', function () {
@@ -24,6 +27,15 @@
     });
 </script>
 
-<slot />
-
-<button class="" id="theme-btn" type="button">Swap Theme</button>
+<div class="tw-flex tw-h-screen tw-flex-col">
+    <div class="tw-grow-0">
+        <ThemeHeader />
+    </div>
+    <div class="tw-grow">
+        <slot />
+    </div>
+    <div class="tw-grow-0">
+        <ThemeFooter />
+        <button class="cm-button-primary cm-focus" id="theme-btn">Swap Theme</button>
+    </div>
+</div>
