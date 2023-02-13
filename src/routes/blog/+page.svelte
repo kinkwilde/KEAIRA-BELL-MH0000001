@@ -4,6 +4,7 @@
     import BlogList from '$lib/components/containers/Blog.svelte';
 </script>
 
-<PageTitle />
-
-<BlogList />
+<div class="cm-section">
+    <PageTitle />
+    <BlogList />
+</div>

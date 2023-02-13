@@ -79,13 +79,22 @@
         @apply tw-h-[1em] tw-w-[1em];
     }
 
+    .cm-section {
+        @apply tw-space-y-12 tw-py-12 md:tw-space-y-24 md:tw-py-24;
+    }
+
     .cm-intro {
         @apply tw-text-lg tw-text-black;
         @apply dark:tw-text-white;
     }
 
     .cm-focus {
-        @apply focus:tw-outline-none focus:tw-ring-2 focus:tw-ring-white;
+        @apply focus:tw-outline-none focus:tw-ring-2 focus:tw-ring-accent1;
+    }
+
+    .cm-focus-button {
+        @apply focus:tw-outline-none focus:tw-ring-2 focus:tw-ring-accent1 focus:tw-ring-offset-2 focus:tw-ring-offset-white;
+        @apply dark:focus:tw-ring-offset-black;
     }
 
     .cm-spacing-y {

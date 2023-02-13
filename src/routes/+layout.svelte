@@ -38,6 +38,6 @@
     <div class="tw-grow-0">
         <ThemeFooter />
         <ThemeCopyright />
-        <button class="cm-button-primary cm-focus" id="theme-btn">Swap Theme</button>
+        <button class="cm-button-primary" id="theme-btn">Swap Theme</button>
     </div>
 </div>

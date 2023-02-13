@@ -6,10 +6,10 @@
 </script>
 
 <nav class="tw-space-x-4">
-    <button class="cm-header-links cm-focus" aria-label="show options">
+    <button class="cm-header-links" aria-label="show options">
         <IconSearch />
     </button>
-    <button class="cm-header-links cm-focus" aria-label="show options">
+    <button class="cm-header-links" aria-label="show options">
         <IconCart />
     </button>
 </nav>
