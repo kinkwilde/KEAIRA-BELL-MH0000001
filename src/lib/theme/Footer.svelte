@@ -6,8 +6,6 @@
 
     // import Center from '$lib/components/atoms/Center.svelte';
 
-    import ThemeCopyright from '$lib/theme/Copyright.svelte';
-
     // TODO: Fix link styling
     // TODO: Check classes
     // TODO: Use SVGs
@@ -132,5 +130,3 @@
         </div>
     </div>
 </div>
-
-<ThemeCopyright />

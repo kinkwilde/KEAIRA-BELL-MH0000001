@@ -3,6 +3,7 @@
 
     import ThemeHeader from '$lib/theme/header.svelte';
     import ThemeFooter from '$lib/theme/footer.svelte';
+    import ThemeCopyright from '$lib/theme/Copyright.svelte';
 
     import { onMount } from 'svelte';
 
@@ -36,6 +37,7 @@
     </div>
     <div class="tw-grow-0">
         <ThemeFooter />
+        <ThemeCopyright />
         <button class="cm-button-primary cm-focus" id="theme-btn">Swap Theme</button>
     </div>
 </div>
