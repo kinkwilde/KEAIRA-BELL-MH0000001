@@ -6,7 +6,7 @@
 
 <div class="tw-container">
     <div
-        class="tw-grid tw-gap-6 sm:tw-grid-cols-1 md:tw-grid-cols-2 lg:tw-grid-cols-4 xl:tw-grid-cols-4"
+        class="tw-grid tw-gap-8 sm:tw-grid-cols-1 md:tw-grid-cols-2 lg:tw-grid-cols-4 xl:tw-grid-cols-4"
     >
         <Card />
         <Card />
