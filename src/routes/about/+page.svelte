@@ -1,5 +1,6 @@
 <script>
     import PageHero from '$lib/components/contents/Hero.svelte';
+    import Instagram from '$lib/components/contents/Instagram.svelte';
 </script>
 
 <div class="cm-section">
@@ -71,3 +72,4 @@
         </div>
     </div>
 </div>
+<Instagram />
