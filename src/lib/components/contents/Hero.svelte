@@ -1,8 +1,9 @@
 <script>
     // console.log('Hero.svelte');
 
-    export let title = 'Title';
-    export let text = 'Text';
+    export let title = 'The Freedom to Create the Websites You Want';
+    export let text =
+        'A professonal website drives sales. Create a beautiful website to impress and engage new customers and establish your business online';
 
     export let linkOneText = 'Click Here';
     export let linkOneLink = '';

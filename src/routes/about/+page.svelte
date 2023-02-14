@@ -1,10 +1,8 @@
 <script>
-    import PageHero from '$lib/components/contents/Hero.svelte';
     import Instagram from '$lib/components/contents/Instagram.svelte';
 </script>
 
 <div class="cm-section">
-    <PageHero />
     <div class="tw-container tw-flex tw-flex-col tw-items-center">
         <img
             class="tw-h-auto tw-w-full"

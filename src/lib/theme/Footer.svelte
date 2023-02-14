@@ -52,7 +52,7 @@
                         <li>
                             <a
                                 class="cm-focus tw-p-2 tw-text-base tw-uppercase tw-text-white tw-no-underline tw-decoration-4 hover:tw-underline hover:tw-decoration-accent1 dark:hover:tw-decoration-accent3"
-                                href="/"
+                                href="/privacy"
                             >
                                 Privacy policy
                             </a>
@@ -60,7 +60,7 @@
                         <li>
                             <a
                                 class="cm-focus tw-p-2 tw-text-base tw-uppercase tw-text-white tw-no-underline tw-decoration-4 hover:tw-underline hover:tw-decoration-accent1 dark:hover:tw-decoration-accent3"
-                                href="/"
+                                href="/terms"
                             >
                                 Terms of service
                             </a>
