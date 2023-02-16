@@ -4,13 +4,6 @@
 
 <div class="cm-section">
     <PageTitle />
-    <div class="tw-container tw-flex tw-flex-col tw-items-center">
-        <img
-            class="tw-h-auto tw-w-full"
-            src="https://i.ibb.co/FhgPJt8/Rectangle-116.png"
-            alt="A group of People"
-        />
-    </div>
     <div class="tw-mx-auto tw-max-w-prose">
         <p>
             Oh acceptance apartments up sympathize astonished delightful. Waiting him new lasting

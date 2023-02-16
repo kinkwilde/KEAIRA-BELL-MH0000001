@@ -5,7 +5,7 @@
 <div class="cm-section">
     <PageTitle />
     <div class="tw-container">
-        <div class="tw-mx-auto sm:tw-w-2/3">
+        <div class="tw-mx-auto tw-max-w-prose">
             <form>
                 <div class="tw-grid tw-grid-cols-2 tw-gap-8">
                     <div class="tw-flex tw-flex-col">

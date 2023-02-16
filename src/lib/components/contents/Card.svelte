@@ -17,12 +17,12 @@
     <div>
         <div class="tw-flex tw-items-center tw-justify-between tw-text-white dark:tw-text-white">
             <p class="tw-text-sm tw-text-white">March 28, 2020</p>
-            <button
+            <a
                 class="tw-flex tw-h-8 tw-w-8 tw-items-center tw-justify-center tw-rounded-full tw-bg-white tw-text-black"
-                aria-label="edit note"
+                href="/blog/article"
             >
                 <IconLink />
-            </button>
+            </a>
         </div>
     </div>
 </div>

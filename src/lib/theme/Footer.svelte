@@ -74,6 +74,14 @@
                                 class="cm-focus tw-p-2 tw-text-base tw-uppercase tw-text-white tw-no-underline tw-decoration-4 hover:tw-underline hover:tw-decoration-accent1 dark:hover:tw-decoration-accent3"
                                 href="/"
                             >
+                                Features
+                            </a>
+                        </li>
+                        <li>
+                            <a
+                                class="cm-focus tw-p-2 tw-text-base tw-uppercase tw-text-white tw-no-underline tw-decoration-4 hover:tw-underline hover:tw-decoration-accent1 dark:hover:tw-decoration-accent3"
+                                href="/"
+                            >
                                 Pricing
                             </a>
                         </li>
