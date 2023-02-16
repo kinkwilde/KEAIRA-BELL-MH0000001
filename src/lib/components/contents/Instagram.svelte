@@ -22,9 +22,6 @@
                 />
                 <div
                     class="tw-absolute tw-top-0 tw-left-0 tw-flex tw-h-full tw-w-full tw-items-center tw-justify-center"
-                />
-                <div
-                    class="tw-absolute tw-top-0 tw-left-0 tw-flex tw-h-full tw-w-full tw-items-center tw-justify-center tw-opacity-0"
                 >
                     <img
                         src="https://tuk-cdn.s3.amazonaws.com/can-uploader/social-1-svg1.svg"
@@ -39,9 +36,6 @@
                 />
                 <div
                     class="tw-absolute tw-top-0 tw-left-0 tw-flex tw-h-full tw-w-full tw-items-center tw-justify-center"
-                />
-                <div
-                    class="tw-absolute tw-top-0 tw-left-0 tw-flex tw-h-full tw-w-full tw-items-center tw-justify-center tw-opacity-0"
                 >
                     <img
                         src="https://tuk-cdn.s3.amazonaws.com/can-uploader/social-1-svg1.svg"
@@ -56,9 +50,6 @@
                 />
                 <div
                     class="tw-absolute tw-top-0 tw-left-0 tw-flex tw-h-full tw-w-full tw-items-center tw-justify-center"
-                />
-                <div
-                    class="tw-absolute tw-top-0 tw-left-0 tw-flex tw-h-full tw-w-full tw-items-center tw-justify-center tw-opacity-0"
                 >
                     <img
                         src="https://tuk-cdn.s3.amazonaws.com/can-uploader/social-1-svg1.svg"
@@ -73,9 +64,6 @@
                 />
                 <div
                     class="tw-absolute tw-top-0 tw-left-0 tw-flex tw-h-full tw-w-full tw-items-center tw-justify-center"
-                />
-                <div
-                    class="tw-absolute tw-top-0 tw-left-0 tw-flex tw-h-full tw-w-full tw-items-center tw-justify-center tw-opacity-0"
                 >
                     <img
                         src="https://tuk-cdn.s3.amazonaws.com/can-uploader/social-1-svg1.svg"
