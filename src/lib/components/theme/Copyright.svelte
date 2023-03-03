@@ -9,8 +9,8 @@
 <div class="tw-bg-white tw-py-9 dark:tw-bg-black">
     <div class="tw-container tw-flex tw-flex-col tw-items-center">
         <Logo textSize="tw-text-4xl" />
-        <p class="tw-mt-4 tw-mb-0 tw-text-xs tw-leading-none md:tw-text-sm">
+        <small class="tw-mt-4 tw-mb-0 tw-leading-none">
             Copyright &copy; 2020 - {copyrightDate}. All Rights Reserved.
-        </p>
+        </small>
     </div>
 </div>
