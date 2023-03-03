@@ -1,4 +1,6 @@
 <script>
+    console.log('PAGE', 'Contact Page');
+
     import PageTitle from '$lib/components/contents/Title.svelte';
 </script>
 

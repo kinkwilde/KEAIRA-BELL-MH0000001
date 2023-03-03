@@ -1,4 +1,6 @@
 <script>
+    console.log('PAGE', 'Privacy Page');
+
     import PageTitle from '$lib/components/contents/Title.svelte';
 </script>
 

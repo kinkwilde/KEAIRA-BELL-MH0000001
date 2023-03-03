@@ -1,4 +1,6 @@
 <script>
+    console.log('PAGE', 'About Page');
+
     import Instagram from '$lib/components/contents/Instagram.svelte';
 </script>
 

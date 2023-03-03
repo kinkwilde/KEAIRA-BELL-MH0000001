@@ -1,5 +1,5 @@
 <script>
-    console.log('+error.svelte');
+    console.log('PAGE', 'Error Page');
 
     import { page } from '$app/stores';
 

@@ -1,4 +1,6 @@
 <script>
+    console.log('PAGE', 'Home Page');
+
     import PageHero from '$lib/components/contents/Hero.svelte';
 </script>
 

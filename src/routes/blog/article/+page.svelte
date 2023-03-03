@@ -1,4 +1,6 @@
 <script>
+    console.log('PAGE', 'Article Page');
+
     import PageTitle from '$lib/components/contents/Title.svelte';
 
     import BlogRelated from '$lib/components/containers/Related.svelte';
