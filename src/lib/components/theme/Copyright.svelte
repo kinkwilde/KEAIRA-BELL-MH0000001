@@ -6,7 +6,7 @@
     const copyrightDate = new Date().getFullYear();
 </script>
 
-<div class="tw-bg-white tw-py-9 dark:tw-bg-black">
+<div class="tw-bg-white tw-py-4 dark:tw-bg-black lg:tw-py-9">
     <div class="tw-container tw-flex tw-flex-col tw-items-center">
         <Logo textSize="tw-text-4xl" />
         <small class="tw-mt-4 tw-mb-0 tw-leading-none">

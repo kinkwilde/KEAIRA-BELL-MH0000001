@@ -9,6 +9,7 @@
 
     onMount(async () => {
         const colorDocument = document.documentElement;
+
         const colorButton = document.querySelector('#theme-btn');
 
         if (getLocalStorage('dark')) {
