@@ -1,7 +1,7 @@
 <script>
     console.log('PAGE', 'About Page');
 
-    import Instagram from '$lib/components/contents/Instagram.svelte';
+    import Instagram from '$lib/components/contents/instagram.svelte';
 </script>
 
 <div class="cm-section">

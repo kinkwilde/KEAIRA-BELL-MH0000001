@@ -1,5 +1,5 @@
 <script>
-    // console.log('Title.svelte');
+    // console.log('title.svelte');
 </script>
 
 <div class="tw-container">

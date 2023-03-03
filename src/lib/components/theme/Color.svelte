@@ -1,7 +1,7 @@
 <script>
     import { onMount } from 'svelte';
 
-    import { getLocalStorage, setLocalStorage, removeLocalStorage } from './../../../utils/helpers';
+    import { getLocalStorage, setLocalStorage, removeLocalStorage } from '../../../utils/helpers';
 
     let colorHidden = true;
 

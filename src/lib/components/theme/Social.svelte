@@ -1,9 +1,9 @@
 <script>
     // console.log('Footer.svelte');
 
-    import IconGithub from '$lib/icons/Github.svelte';
-    import IconTwitter from '$lib/icons/Twitter.svelte';
-    import IconInstagram from '$lib/icons/Instagram.svelte';
+    import IconGithub from '$lib/icons/github.svelte';
+    import IconTwitter from '$lib/icons/twitter.svelte';
+    import IconInstagram from '$lib/icons/instagram.svelte';
 </script>
 
 <nav class="tw-flex tw-items-center tw-space-x-4">

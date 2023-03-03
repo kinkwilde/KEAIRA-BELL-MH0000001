@@ -1,7 +1,7 @@
 <script>
     console.log('PAGE', 'Contact Page');
 
-    import PageTitle from '$lib/components/contents/Title.svelte';
+    import PageTitle from '$lib/components/contents/title.svelte';
 </script>
 
 <div class="cm-section">

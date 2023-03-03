@@ -1,7 +1,7 @@
 <script>
     // console.log('Copyright.svelte');
 
-    import Logo from '$lib/components/theme/Logo.svelte';
+    import Logo from '$lib/components/theme/logo.svelte';
 
     const copyrightDate = new Date().getFullYear();
 </script>

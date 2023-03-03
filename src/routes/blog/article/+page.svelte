@@ -1,9 +1,9 @@
 <script>
     console.log('PAGE', 'Article Page');
 
-    import PageTitle from '$lib/components/contents/Title.svelte';
+    import PageTitle from '$lib/components/contents/title.svelte';
 
-    import BlogRelated from '$lib/components/containers/Related.svelte';
+    import BlogRelated from '$lib/components/containers/related.svelte';
 </script>
 
 <div class="cm-section">

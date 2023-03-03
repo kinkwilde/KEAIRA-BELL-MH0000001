@@ -1,7 +1,7 @@
 <script>
-    // console.log('Blog.svelte');
+    // console.log('blog.svelte');
 
-    import Card from '$lib/components/contents/Card.svelte';
+    import Card from '$lib/components/contents/card.svelte';
 </script>
 
 <div class="tw-container">

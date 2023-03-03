@@ -1,7 +1,7 @@
 <script>
     // console.log('Mobile.svelte');
 
-    import IconMenu from '$lib/icons/Menu.svelte';
+    import IconMenu from '$lib/icons/menu.svelte';
 </script>
 
 <button class="cm-header-links" aria-label="show options">

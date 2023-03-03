@@ -1,9 +1,9 @@
 <script>
     // console.log('Header.svelte');
 
-    import Links from '$lib/components/theme/Links.svelte';
-    import Logo from '$lib/components/theme/Logo.svelte';
-    import Mobile from '$lib/components/theme/Mobile.svelte';
+    import Links from '$lib/components/theme/links.svelte';
+    import Logo from '$lib/components/theme/logo.svelte';
+    import Mobile from '$lib/components/theme/mobile.svelte';
 </script>
 
 <div class="tw-bg-black dark:tw-bg-grey">

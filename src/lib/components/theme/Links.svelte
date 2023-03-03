@@ -1,8 +1,8 @@
 <script>
     // console.log('Links.svelte');
 
-    import IconSearch from '$lib/icons/Search.svelte';
-    import IconCart from '$lib/icons/Cart.svelte';
+    import IconSearch from '$lib/icons/search.svelte';
+    import IconCart from '$lib/icons/cart.svelte';
 </script>
 
 <nav class="tw-space-x-4">

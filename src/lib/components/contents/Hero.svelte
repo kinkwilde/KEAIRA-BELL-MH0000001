@@ -1,5 +1,5 @@
 <script>
-    // console.log('Hero.svelte');
+    // console.log('hero.svelte');
 
     export let title = 'The Freedom to Create the Websites You Want';
     export let text =

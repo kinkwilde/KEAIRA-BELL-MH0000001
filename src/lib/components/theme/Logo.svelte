@@ -3,7 +3,7 @@
 
     import { page } from '$app/stores';
 
-    import Text from '$lib/components/theme/Text.svelte';
+    import Text from '$lib/components/theme/text.svelte';
 
     export let logoH1 = false;
     export let textSize = '!tw-text-6xl';

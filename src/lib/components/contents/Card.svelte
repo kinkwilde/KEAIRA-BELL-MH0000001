@@ -1,7 +1,7 @@
 <script>
     // console.log('Card.svelte');
 
-    import IconLink from '$lib/icons/Link.svelte';
+    import IconLink from '$lib/icons/link.svelte';
 </script>
 
 <div

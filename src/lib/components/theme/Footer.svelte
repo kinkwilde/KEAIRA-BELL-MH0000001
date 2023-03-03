@@ -1,14 +1,5 @@
 <script>
-    // console.log('Footer.svelte');
-
-    // import Color from '$lib/components/theme/Color.svelte';
-    // import Social from '$lib/components/theme/Social.svelte';
-
-    // import Center from '$lib/components/atoms/Center.svelte';
-
-    // TODO: Fix link styling
-    // TODO: Check classes
-    // TODO: Use SVGs
+    // console.log('footer.svelte');
 </script>
 
 <div class="tw-bg-black tw-py-12 dark:tw-bg-grey lg:tw-py-24">

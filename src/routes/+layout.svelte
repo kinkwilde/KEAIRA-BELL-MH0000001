@@ -1,11 +1,11 @@
 <script>
     import '../app.css';
 
-    import ThemeHeader from '$lib/components/theme/Header.svelte';
-    import ThemeFooter from '$lib/components/theme/Footer.svelte';
+    import ThemeHeader from '$lib/components/theme/header.svelte';
+    import ThemeFooter from '$lib/components/theme/footer.svelte';
 
-    import ThemeColor from '$lib/components/theme/Color.svelte';
-    import ThemeCopyright from '$lib/components/theme/Copyright.svelte';
+    import ThemeColor from '$lib/components/theme/color.svelte';
+    import ThemeCopyright from '$lib/components/theme/copyright.svelte';
 </script>
 
 <div class="tw-flex tw-h-screen tw-flex-col">
