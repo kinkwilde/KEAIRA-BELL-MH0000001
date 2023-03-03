@@ -1,5 +1,5 @@
 <script>
-    // console.log('hero.svelte');
+    console.log('COMPONENT', 'hero.svelte');
 
     export let title = 'The Freedom to Create the Websites You Want';
     export let text =
@@ -14,9 +14,7 @@
 
 <div class="tw-container tw-flex tw-flex-col tw-items-center">
     <div class="tw-flex tw-w-11/12 tw-flex-col tw-items-center md:tw-w-2/3">
-        <h3
-            class="tw-mb-0 tw-text-center tw-text-2xl sm:tw-text-3xl md:tw-text-4xl lg:tw-text-5xl xl:tw-text-6xl"
-        >
+        <h3 class="cm-title tw-mb-0 tw-text-center">
             {title}
         </h3>
         <p

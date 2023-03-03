@@ -2,8 +2,8 @@
 
 @layer base {
     body {
-        @apply tw-bg-white;
-        @apply dark:tw-bg-black;
+        @apply tw-bg-white tw-text-black;
+        @apply dark:tw-bg-black dark:tw-text-white;
     }
 
     h1,
@@ -12,12 +12,12 @@
     h4,
     h5,
     h6 {
-        @apply tw-font-bold tw-leading-tight tw-text-black;
-        @apply dark:tw-text-white;
+        @apply tw-font-bold tw-leading-tight;
     }
 
     h1 {
-        @apply tw-mb-6 tw-text-6xl;
+        @apply tw-mb-6 tw-text-5xl;
+        @apply md:tw-text-6xl;
     }
 
     h2,
@@ -29,28 +29,37 @@
     }
 
     h2 {
-        @apply tw-text-5xl;
+        @apply tw-text-4xl;
+        @apply md:tw-text-5xl;
     }
 
     h3 {
-        @apply tw-text-4xl;
+        @apply tw-text-3xl;
+        @apply md:tw-text-4xl;
     }
 
     h4 {
-        @apply tw-text-3xl;
+        @apply tw-text-2xl;
+        @apply md:tw-text-3xl;
     }
 
     h5 {
-        @apply tw-text-2xl;
+        @apply tw-text-xl;
+        @apply md:tw-text-2xl;
     }
 
     h6 {
-        @apply tw-text-xl;
+        @apply tw-text-lg;
+        @apply md:tw-text-xl;
     }
 
     p {
-        @apply tw-mb-4 tw-text-base tw-font-light tw-leading-normal tw-text-black;
-        @apply dark:tw-text-white;
+        @apply tw-mb-4 tw-text-base tw-font-light tw-leading-normal;
+    }
+
+    small {
+        @apply tw-text-xs tw-leading-normal;
+        @apply md:tw-text-sm;
     }
 
     a {
@@ -61,10 +70,6 @@
     ul,
     ol {
         @apply tw-mb-4 tw-list-outside tw-pl-5;
-
-        li {
-            @apply tw-text-black;
-        }
     }
 
     ul {
@@ -80,12 +85,16 @@
     }
 
     .cm-section {
-        @apply tw-space-y-12 tw-py-12 md:tw-space-y-24 md:tw-py-24;
+        @apply tw-space-y-9 tw-py-9 md:tw-space-y-12 md:tw-py-12 xl:tw-space-y-24 xl:tw-py-24;
+    }
+
+    .cm-title {
+        @apply tw-text-5xl;
+        @apply md:tw-text-6xl;
     }
 
     .cm-intro {
-        @apply tw-text-lg tw-text-black;
-        @apply dark:tw-text-white;
+        @apply tw-text-lg;
     }
 
     .cm-focus {
@@ -95,11 +104,5 @@
     .cm-focus-button {
         @apply focus:tw-outline-none focus:tw-ring-2 focus:tw-ring-accent1 focus:tw-ring-offset-2 focus:tw-ring-offset-white;
         @apply dark:focus:tw-ring-offset-black;
-    }
-
-    .cm-spacing-y {
-        @apply tw-space-y-4;
-        @apply md:tw-space-y-8;
-        @apply lg:tw-space-y-12;
     }
 }

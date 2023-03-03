@@ -1,5 +1,5 @@
 <script>
-    // console.log('blog.svelte');
+    console.log('COMPONENT', 'blog.svelte');
 
     import Card from '$lib/components/contents/card.svelte';
 </script>

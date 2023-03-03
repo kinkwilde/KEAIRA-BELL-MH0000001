@@ -1,11 +1,11 @@
 <script>
-    // console.log('Links.svelte');
+    console.log('COMPONENT', 'links.svelte');
 
     import IconSearch from '$lib/icons/search.svelte';
     import IconCart from '$lib/icons/cart.svelte';
 </script>
 
-<nav class="tw-space-x-4">
+<nav class="tw-inline-flex tw-items-center tw-space-x-4">
     <button class="cm-header-links" aria-label="show options">
         <IconSearch />
     </button>

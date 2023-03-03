@@ -1,4 +1,6 @@
 <script>
+    console.log('COMPONENT', 'related.svelte');
+
     import Card from '$lib/components/contents/card.svelte';
 </script>
 

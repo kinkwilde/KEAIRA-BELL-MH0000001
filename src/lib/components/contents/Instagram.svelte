@@ -1,3 +1,7 @@
+<script>
+    console.log('COMPONENT', 'instagram.svelte');
+</script>
+
 <div class="tw-bg-accent3">
     <div class="tw-py-9 tw-px-4 xxl:tw-container md:tw-py-12 md:tw-px-6 lg:tw-px-20 xxl:tw-mx-auto">
         <div class="tw-text-center">

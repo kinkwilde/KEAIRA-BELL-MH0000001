@@ -1,4 +1,6 @@
 <script>
+    console.log('COMPONENT', 'color.svelte');
+
     import { onMount } from 'svelte';
 
     import { getLocalStorage, setLocalStorage, removeLocalStorage } from '../../../utils/helpers';

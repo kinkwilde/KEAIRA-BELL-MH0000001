@@ -1,9 +1,9 @@
 <script>
-    // console.log('Logo.svelte');
+    console.log('COMPONENT', 'logo.svelte');
 
     import { page } from '$app/stores';
 
-    import Text from '$lib/components/theme/text.svelte';
+    import Text from '$lib/components/theme/name.svelte';
 
     export let logoH1 = false;
     export let textSize = '!tw-text-6xl';

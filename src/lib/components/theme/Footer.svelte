@@ -1,5 +1,5 @@
 <script>
-    // console.log('footer.svelte');
+    console.log('COMPONENT', 'footer.svelte');
 </script>
 
 <div class="tw-bg-black tw-py-12 dark:tw-bg-grey lg:tw-py-24">

@@ -1,5 +1,5 @@
 <script>
-    // console.log('Text.svelte');
+    console.log('COMPONENT', 'name.svelte');
 
     export let textSize = '!tw-text-6xl';
     export let textColor = 'tw-text-black';

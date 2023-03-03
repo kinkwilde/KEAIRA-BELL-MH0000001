@@ -1,4 +1,6 @@
 <script>
+    console.log('ROUTES', 'Layout');
+
     import '../app.css';
 
     import ThemeHeader from '$lib/components/theme/header.svelte';

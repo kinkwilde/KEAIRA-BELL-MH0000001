@@ -1,5 +1,5 @@
 <script>
-    // console.log('Card.svelte');
+    console.log('COMPONENT', 'card.svelte');
 
     import IconLink from '$lib/icons/link.svelte';
 </script>

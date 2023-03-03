@@ -1,5 +1,5 @@
 <script>
-    // console.log('Copyright.svelte');
+    console.log('COMPONENT', 'copyright.svelte');
 
     import Logo from '$lib/components/theme/logo.svelte';
 
