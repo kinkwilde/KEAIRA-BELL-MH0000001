@@ -4,6 +4,6 @@
     import IconMenu from '$lib/icons/menu.svelte';
 </script>
 
-<button class="cm-header-links" aria-label="show options">
+<button class="cm-header-icon-links" aria-label="show options">
     <IconMenu />
 </button>
