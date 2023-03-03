@@ -10,7 +10,7 @@
                     <ul class="tw-mb-0 tw-flex tw-list-none tw-flex-col tw-space-y-2 tw-pl-0">
                         <li>
                             <a
-                                class="cm-focus tw-p-2 tw-text-base tw-uppercase tw-text-white tw-no-underline tw-decoration-4 hover:tw-underline hover:tw-decoration-accent1 dark:hover:tw-decoration-accent3"
+                                class="cm-focus tw-py-2 tw-text-base tw-uppercase tw-text-white tw-no-underline tw-decoration-4 hover:tw-underline hover:tw-decoration-accent1 dark:hover:tw-decoration-accent3"
                                 href="/"
                             >
                                 Home
@@ -18,7 +18,7 @@
                         </li>
                         <li>
                             <a
-                                class="cm-focus tw-p-2 tw-text-base tw-uppercase tw-text-white tw-no-underline tw-decoration-4 hover:tw-underline hover:tw-decoration-accent1 dark:hover:tw-decoration-accent3"
+                                class="cm-focus tw-py-2 tw-text-base tw-uppercase tw-text-white tw-no-underline tw-decoration-4 hover:tw-underline hover:tw-decoration-accent1 dark:hover:tw-decoration-accent3"
                                 href="/about"
                             >
                                 About
@@ -26,7 +26,7 @@
                         </li>
                         <li>
                             <a
-                                class="cm-focus tw-p-2 tw-text-base tw-uppercase tw-text-white tw-no-underline tw-decoration-4 hover:tw-underline hover:tw-decoration-accent1 dark:hover:tw-decoration-accent3"
+                                class="cm-focus tw-py-2 tw-text-base tw-uppercase tw-text-white tw-no-underline tw-decoration-4 hover:tw-underline hover:tw-decoration-accent1 dark:hover:tw-decoration-accent3"
                                 href="/blog"
                             >
                                 Blog
@@ -34,7 +34,7 @@
                         </li>
                         <li>
                             <a
-                                class="cm-focus tw-p-2 tw-text-base tw-uppercase tw-text-white tw-no-underline tw-decoration-4 hover:tw-underline hover:tw-decoration-accent1 dark:hover:tw-decoration-accent3"
+                                class="cm-focus tw-py-2 tw-text-base tw-uppercase tw-text-white tw-no-underline tw-decoration-4 hover:tw-underline hover:tw-decoration-accent1 dark:hover:tw-decoration-accent3"
                                 href="/contact"
                             >
                                 Contact
@@ -42,7 +42,7 @@
                         </li>
                         <li>
                             <a
-                                class="cm-focus tw-p-2 tw-text-base tw-uppercase tw-text-white tw-no-underline tw-decoration-4 hover:tw-underline hover:tw-decoration-accent1 dark:hover:tw-decoration-accent3"
+                                class="cm-focus tw-py-2 tw-text-base tw-uppercase tw-text-white tw-no-underline tw-decoration-4 hover:tw-underline hover:tw-decoration-accent1 dark:hover:tw-decoration-accent3"
                                 href="/privacy"
                             >
                                 Privacy policy
@@ -50,7 +50,7 @@
                         </li>
                         <li>
                             <a
-                                class="cm-focus tw-p-2 tw-text-base tw-uppercase tw-text-white tw-no-underline tw-decoration-4 hover:tw-underline hover:tw-decoration-accent1 dark:hover:tw-decoration-accent3"
+                                class="cm-focus tw-py-2 tw-text-base tw-uppercase tw-text-white tw-no-underline tw-decoration-4 hover:tw-underline hover:tw-decoration-accent1 dark:hover:tw-decoration-accent3"
                                 href="/terms"
                             >
                                 Terms of service
@@ -62,7 +62,7 @@
                     <ul class="tw-mb-0 tw-flex tw-list-none tw-flex-col tw-space-y-2 tw-pl-0">
                         <li>
                             <a
-                                class="cm-focus tw-p-2 tw-text-base tw-uppercase tw-text-white tw-no-underline tw-decoration-4 hover:tw-underline hover:tw-decoration-accent1 dark:hover:tw-decoration-accent3"
+                                class="cm-focus tw-py-2 tw-text-base tw-uppercase tw-text-white tw-no-underline tw-decoration-4 hover:tw-underline hover:tw-decoration-accent1 dark:hover:tw-decoration-accent3"
                                 href="/"
                             >
                                 Features
@@ -70,7 +70,7 @@
                         </li>
                         <li>
                             <a
-                                class="cm-focus tw-p-2 tw-text-base tw-uppercase tw-text-white tw-no-underline tw-decoration-4 hover:tw-underline hover:tw-decoration-accent1 dark:hover:tw-decoration-accent3"
+                                class="cm-focus tw-py-2 tw-text-base tw-uppercase tw-text-white tw-no-underline tw-decoration-4 hover:tw-underline hover:tw-decoration-accent1 dark:hover:tw-decoration-accent3"
                                 href="/"
                             >
                                 Pricing
@@ -78,7 +78,7 @@
                         </li>
                         <li>
                             <a
-                                class="cm-focus tw-p-2 tw-text-base tw-uppercase tw-text-white tw-no-underline tw-decoration-4 hover:tw-underline hover:tw-decoration-accent1 dark:hover:tw-decoration-accent3"
+                                class="cm-focus tw-py-2 tw-text-base tw-uppercase tw-text-white tw-no-underline tw-decoration-4 hover:tw-underline hover:tw-decoration-accent1 dark:hover:tw-decoration-accent3"
                                 href="/"
                             >
                                 Components
@@ -86,7 +86,7 @@
                         </li>
                         <li>
                             <a
-                                class="cm-focus tw-p-2 tw-text-base tw-uppercase tw-text-white tw-no-underline tw-decoration-4 hover:tw-underline hover:tw-decoration-accent1 dark:hover:tw-decoration-accent3"
+                                class="cm-focus tw-py-2 tw-text-base tw-uppercase tw-text-white tw-no-underline tw-decoration-4 hover:tw-underline hover:tw-decoration-accent1 dark:hover:tw-decoration-accent3"
                                 href="/"
                             >
                                 Changelog
@@ -100,7 +100,7 @@
                     <ul class="tw-mb-0 tw-flex tw-list-none tw-flex-col tw-space-y-2 tw-pl-0">
                         <li>
                             <a
-                                class="cm-focus tw-p-2 tw-text-base tw-uppercase tw-text-white tw-no-underline tw-decoration-4 hover:tw-underline hover:tw-decoration-accent1 dark:hover:tw-decoration-accent3"
+                                class="cm-focus tw-py-2 tw-text-base tw-uppercase tw-text-white tw-no-underline tw-decoration-4 hover:tw-underline hover:tw-decoration-accent1 dark:hover:tw-decoration-accent3"
                                 href="/"
                             >
                                 Privacy policy
@@ -108,7 +108,7 @@
                         </li>
                         <li>
                             <a
-                                class="cm-focus tw-p-2 tw-text-base tw-uppercase tw-text-white tw-no-underline tw-decoration-4 hover:tw-underline hover:tw-decoration-accent1 dark:hover:tw-decoration-accent3"
+                                class="cm-focus tw-py-2 tw-text-base tw-uppercase tw-text-white tw-no-underline tw-decoration-4 hover:tw-underline hover:tw-decoration-accent1 dark:hover:tw-decoration-accent3"
                                 href="/"
                             >
                                 Terms of service

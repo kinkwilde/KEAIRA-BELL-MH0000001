@@ -11,9 +11,13 @@
         @apply cm-focus-button;
     }
 
-    .cm-header-links {
+    .cm-header-icon-links {
         @apply tw-text-3xl tw-text-white;
         @apply hover:tw-text-accent1;
         @apply cm-focus;
+    }
+
+    .cm-header-text-links {
+        @apply tw-uppercase tw-text-white tw-no-underline;
     }
 }
