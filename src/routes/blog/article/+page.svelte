@@ -1,7 +1,7 @@
 <script>
     import PageTitle from '$lib/components/contents/Title.svelte';
 
-    import BlogRelated from '$lib/components/container/Related.svelte';
+    import BlogRelated from '$lib/components/containers/Related.svelte';
 </script>
 
 <div class="cm-section">

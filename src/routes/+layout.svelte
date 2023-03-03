@@ -1,31 +1,11 @@
 <script>
     import '../app.css';
 
-    import ThemeHeader from '$lib/theme/header.svelte';
-    import ThemeFooter from '$lib/theme/footer.svelte';
-    import ThemeCopyright from '$lib/theme/Copyright.svelte';
+    import ThemeHeader from '$lib/components/theme/Header.svelte';
+    import ThemeFooter from '$lib/components/theme/Footer.svelte';
 
-    import { onMount } from 'svelte';
-
-    onMount(async () => {
-        var d = document.documentElement,
-            t = document.querySelector('#theme-btn'),
-            m = localStorage.getItem('site-theme');
-
-        if (m == 'dark') {
-            d.classList.add('tw-dark');
-        }
-
-        t.addEventListener('click', function () {
-            if (d.classList.contains('tw-dark')) {
-                d.classList.remove('tw-dark');
-                localStorage.removeItem('site-theme');
-            } else {
-                d.classList.add('tw-dark');
-                localStorage.setItem('site-theme', 'dark');
-            }
-        });
-    });
+    import ThemeColor from '$lib/components/theme/Color.svelte';
+    import ThemeCopyright from '$lib/components/theme/Copyright.svelte';
 </script>
 
 <div class="tw-flex tw-h-screen tw-flex-col">
@@ -38,6 +18,6 @@
     <div class="tw-grow-0">
         <ThemeFooter />
         <ThemeCopyright />
-        <button class="cm-button-primary" id="theme-btn">Swap Theme</button>
+        <ThemeColor />
     </div>
 </div>
