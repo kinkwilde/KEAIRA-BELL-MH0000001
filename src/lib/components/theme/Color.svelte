@@ -7,6 +7,8 @@
 
     let colorHidden = true;
 
+    // TODO: change id to js-bla-bla
+
     onMount(async () => {
         const colorDocument = document.documentElement;
 
