@@ -24,6 +24,7 @@ module.exports = {
             accent3: '#5800ff',
             black: '#141414',
             current: 'currentColor',
+            gray: '#282828',
             grey: '#5a5a5a',
             inherit: 'inherit',
             transparent: 'transparent',

@@ -34,4 +34,4 @@
     });
 </script>
 
-<button class="cm-button-primary" class:tw-hidden={colorHidden} id="theme-btn">Swap Theme</button>
+<button class="tw-uppercase" class:tw-hidden={colorHidden} id="theme-btn">Swap Theme</button>

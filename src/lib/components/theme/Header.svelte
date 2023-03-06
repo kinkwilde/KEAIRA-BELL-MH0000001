@@ -1,7 +1,7 @@
 <script>
     console.log('COMPONENT', 'header.svelte');
 
-    import Links from '$lib/components/theme/links.svelte';
+    import Icons from '$lib/components/theme/icons.svelte';
     import Logo from '$lib/components/theme/logo.svelte';
     import Mobile from '$lib/components/theme/mobile.svelte';
     import Navigation from '$lib/components/theme/navigation.svelte';
@@ -17,7 +17,7 @@
                 <Navigation />
             </div>
             <div class="tw-hidden md:tw-inline-flex md:tw-items-center">
-                <Links />
+                <Icons />
             </div>
             <div class="tw-inline-flex tw-items-center">
                 <Mobile />
