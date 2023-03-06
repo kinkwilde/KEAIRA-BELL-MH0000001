@@ -11,7 +11,9 @@
 
 <div class="tw-flex tw-h-screen tw-flex-col">
     <div class="tw-grow-0">
-        <ThemeLinks />
+        <span class="tw-hidden lg:tw-block">
+            <ThemeLinks />
+        </span>
         <ThemeHeader />
     </div>
     <div class="tw-grow">

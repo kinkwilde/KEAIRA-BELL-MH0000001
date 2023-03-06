@@ -2,6 +2,7 @@
     console.log('PAGE', 'Article Page');
 
     import PageTitle from '$lib/components/contents/title.svelte';
+    import PageHero from '$lib/components/contents/hero.svelte';
 
     import BlogRelated from '$lib/components/containers/related.svelte';
 </script>
@@ -54,6 +55,9 @@
             as an small. Felicity now law securing breeding likewise extended and. Roused either who
             favour why ham.
         </p>
+    </div>
+    <PageHero />
+    <div class="tw-mx-auto tw-max-w-prose">
         <p>
             Improve ashamed married expense bed her comfort pursuit mrs. Four time took ye your as
             fail lady. Up greatest am exertion or marianne. Shy occasional terminated insensible and
