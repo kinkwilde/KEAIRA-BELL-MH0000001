@@ -4,6 +4,7 @@
     import PageHero from '$lib/components/contents/hero.svelte';
 </script>
 
+<PageHero linkOneLink="/about" linkTwoLink="/blog" />
 <div class="cm-section">
-    <PageHero linkOneLink="/about" linkTwoLink="/blog" />
+    <p>Page Content</p>
 </div>
