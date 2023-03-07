@@ -30,15 +30,11 @@
                 <ul
                     class="-tw-mx-4 tw-mb-0 tw-inline-flex tw-list-none tw-items-center tw-divide-x tw-divide-white tw-pl-0"
                 >
-                    <li>
-                        <a href="/" class="cm-header-text-links tw-px-4 tw-text-sm">
-                            <ThemeColor />
-                        </a>
+                    <li class="cm-header-text-links tw-px-4 tw-text-sm">
+                        <ThemeColor />
                     </li>
-                    <li>
-                        <a href="/" class="cm-header-text-links tw-px-4 tw-text-sm">
-                            <button class="tw-uppercase">Account / Sign In</button>
-                        </a>
+                    <li class="cm-header-text-links tw-px-4 tw-text-sm">
+                        <button class="tw-uppercase">Account / Sign In</button>
                     </li>
                 </ul>
             </nav>

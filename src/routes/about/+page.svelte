@@ -2,6 +2,8 @@
     console.log('PAGE', 'About Page');
 
     import Instagram from '$lib/components/contents/instagram.svelte';
+
+    import Placeholder from '$lib/components/contents/placeholder.svelte';
 </script>
 
 <div class="cm-section">
@@ -18,13 +20,7 @@
             </p>
         </div>
         <div class="tw-w-full lg:tw-w-6/12">
-            <div>
-                <img
-                    class="tw-h-auto tw-w-full"
-                    src="https://i.ibb.co/FhgPJt8/Rectangle-116.png"
-                    alt="A group of People"
-                />
-            </div>
+            <Placeholder>About Us</Placeholder>
         </div>
     </div>
 </div>

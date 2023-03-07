@@ -1,9 +1,11 @@
 <script>
     console.log('COMPONENT', 'instagram.svelte');
+
+    import Placeholder from '$lib/components/contents/placeholder.svelte';
 </script>
 
 <div class="tw-bg-accent3">
-    <div class="tw-py-9 tw-px-4 xxl:tw-container md:tw-py-12 md:tw-px-6 lg:tw-px-20 xxl:tw-mx-auto">
+    <div class="tw-container tw-py-9 md:tw-py-12">
         <div class="tw-text-center">
             <h2
                 class="tw-mx-auto tw-w-9/12 tw-text-3xl tw-font-semi tw-leading-9 tw-text-white md:tw-w-full md:tw-leading-7 lg:tw-text-4xl lg:tw-leading-9"
@@ -19,61 +21,37 @@
         <div
             class="tw-mt-10 tw-grid tw-grid-cols-1 tw-gap-4 sm:tw-grid-cols-2 md:tw-gap-8 lg:tw-grid-cols-4 lg:tw-gap-8"
         >
-            <div class="tw-group tw-relative">
-                <img
-                    src="https://i.ibb.co/QHS8Ngp/pexels-alana-sousa-3294250-1.png"
-                    alt="Sitting dog"
-                />
-                <div
-                    class="tw-absolute tw-top-0 tw-left-0 tw-flex tw-h-full tw-w-full tw-items-center tw-justify-center"
-                >
+            <div class="tw-aspect-[3/4]">
+                <Placeholder>
                     <img
                         src="https://tuk-cdn.s3.amazonaws.com/can-uploader/social-1-svg1.svg"
                         alt="instagram"
                     />
-                </div>
+                </Placeholder>
             </div>
-            <div class="tw-group tw-relative">
-                <img
-                    src="https://i.ibb.co/QHS8Ngp/pexels-alana-sousa-3294250-1.png"
-                    alt="Sitting dog"
-                />
-                <div
-                    class="tw-absolute tw-top-0 tw-left-0 tw-flex tw-h-full tw-w-full tw-items-center tw-justify-center"
-                >
+            <div class="tw-aspect-[3/4]">
+                <Placeholder>
                     <img
                         src="https://tuk-cdn.s3.amazonaws.com/can-uploader/social-1-svg1.svg"
                         alt="instagram"
                     />
-                </div>
+                </Placeholder>
             </div>
-            <div class="tw-group tw-relative">
-                <img
-                    src="https://i.ibb.co/QHS8Ngp/pexels-alana-sousa-3294250-1.png"
-                    alt="Sitting dog"
-                />
-                <div
-                    class="tw-absolute tw-top-0 tw-left-0 tw-flex tw-h-full tw-w-full tw-items-center tw-justify-center"
-                >
+            <div class="tw-aspect-[3/4]">
+                <Placeholder>
                     <img
                         src="https://tuk-cdn.s3.amazonaws.com/can-uploader/social-1-svg1.svg"
                         alt="instagram"
                     />
-                </div>
+                </Placeholder>
             </div>
-            <div class="tw-group tw-relative">
-                <img
-                    src="https://i.ibb.co/QHS8Ngp/pexels-alana-sousa-3294250-1.png"
-                    alt="Sitting dog"
-                />
-                <div
-                    class="tw-absolute tw-top-0 tw-left-0 tw-flex tw-h-full tw-w-full tw-items-center tw-justify-center"
-                >
+            <div class="tw-aspect-[3/4]">
+                <Placeholder>
                     <img
                         src="https://tuk-cdn.s3.amazonaws.com/can-uploader/social-1-svg1.svg"
                         alt="instagram"
                     />
-                </div>
+                </Placeholder>
             </div>
         </div>
     </div>
